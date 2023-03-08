@@ -1,6 +1,6 @@
 # Audio Classification with CNN-LSTM networks
 
-Data taken from [TensorFlow Speech Recognition Challenge](https:\\\\www.kaggle.com\\competitions\\tensorflow-speech-recognition-challenge\\overview).
+Data taken from [TensorFlow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge).
 
 | Model             | Num epochs | Validation acc | Test acc |
 | ----------------- | ---------- | -------------- | -------- |
